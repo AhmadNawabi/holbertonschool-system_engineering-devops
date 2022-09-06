@@ -1,2 +1,1 @@
-#!/bin/bash
-su -l betty /tmp/h$ tail -1 0-iam_betty | wc -c
+#!/bin/bashsu -l betty su betty /tmp/h$ tail -1 0-iam_betty | wc -c
